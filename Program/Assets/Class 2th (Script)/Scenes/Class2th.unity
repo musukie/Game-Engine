@@ -333,7 +333,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a125319749cef8a47b92e19ef7c38217, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 7.5
+  ability:
+    strength: 10
+    intelligence: 5
+    dexterity: 5
+    wisdom: 1
 --- !u!1 &1069229783
 GameObject:
   m_ObjectHideFlags: 0
